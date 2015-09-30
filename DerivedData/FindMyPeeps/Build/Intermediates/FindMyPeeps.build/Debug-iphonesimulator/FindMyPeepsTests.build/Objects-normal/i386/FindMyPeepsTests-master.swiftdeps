@@ -1,0 +1,4 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "a8badb794dc068a23b47b4b714a8f148"
+inputs: 
+- "/Users/RockyFish/Desktop/FindMyPeeps/FindMyPeepsTests/FindMyPeepsTests.swift"
