@@ -16,6 +16,7 @@
 		C39D84E51BA7F9680080115C /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = C39D84E31BA7F9680080115C /* LaunchScreen.xib */; };
 		C39D84F11BA7F9680080115C /* FindMyPeepsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C39D84F01BA7F9680080115C /* FindMyPeepsTests.swift */; };
 		C39D84FB1BA80B760080115C /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C39D84FA1BA80B760080115C /* CoreLocation.framework */; };
+		FBF36AFF1BBCDADE0078E0C0 /* Login.swift in Sources */ = {isa = PBXBuildFile; fileRef = FBF36AFE1BBCDADE0078E0C0 /* Login.swift */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		C39D84EF1BA7F9680080115C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C39D84F01BA7F9680080115C /* FindMyPeepsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FindMyPeepsTests.swift; sourceTree = "<group>"; };
 		C39D84FA1BA80B760080115C /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		FBF36AFE1BBCDADE0078E0C0 /* Login.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Login.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		C39D84D71BA7F9680080115C /* FindMyPeeps */ = {
 			isa = PBXGroup;
 			children = (
+				FBF36AFE1BBCDADE0078E0C0 /* Login.swift */,
 				C314E7D41BBBA59C00D17436 /* FriendsViewController.swift */,
 				C39D84DA1BA7F9680080115C /* AppDelegate.swift */,
 				C39D84DC1BA7F9680080115C /* ViewController.swift */,
@@ -229,6 +232,7 @@
 				C39D84DD1BA7F9680080115C /* ViewController.swift in Sources */,
 				C314E7D51BBBA59C00D17436 /* FriendsViewController.swift in Sources */,
 				C39D84DB1BA7F9680080115C /* AppDelegate.swift in Sources */,
+				FBF36AFF1BBCDADE0078E0C0 /* Login.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
